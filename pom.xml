@@ -67,8 +67,8 @@
                         <rule>
                             <limits>
                                 <limit>
-                                    <counter>INSTRACTION</counter>
-                                    <value>COVEREDRADIO</value>
+                                    <counter>LINE</counter>
+                                    <value>COVEREDRATIO</value>
                                     <minimum>100%</minimum>
                                 </limit>
                             </limits>
