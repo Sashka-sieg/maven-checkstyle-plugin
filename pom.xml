@@ -68,8 +68,8 @@
                             <limits>
                                 <limit>
                                     <counter>PACKAGE</counter>
-                                    <value>LINE</value>
-                                    <minimum>1</minimum>
+                                    <value>COVEREDRADIO</value>
+                                    <minimum>100%</minimum>
                                 </limit>
                             </limits>
                         </rule>
